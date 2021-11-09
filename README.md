@@ -11,3 +11,6 @@
 
 - CNN을 이해하기 좋은 가장 좋은 이미지
 ![image](https://user-images.githubusercontent.com/76835313/140684581-d4e3cbb8-0ecc-4f11-a29c-249d7a905ce3.png)
+
+- LeNet 
+- https://github.com/mattwang44/LeNet-from-Scratch
