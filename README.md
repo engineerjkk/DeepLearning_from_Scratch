@@ -14,3 +14,4 @@
 
 - LeNet 
 - https://github.com/mattwang44/LeNet-from-Scratch
+- https://www.quora.com/What-is-the-Gaussian-Connection-in-LeNet-5s-final-step
